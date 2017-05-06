@@ -1,7 +1,7 @@
 % ELIMINATION OF FOG IN SINGLE IMAGE USING DARK CHANNEL PROIOR
 % AUTHORS @ VAIBHAV KHANDELWAL(15BCE0342) AND DIVYANSHI MANGAL(15BCE0454)
 
-fogged = imread('v2.bmp'); %Fogged Image
+fogged = imread('your_input_image_path'); %Fogged Image
 figure, imshow(fogged);
 
 %STEP.1. ESTIMATION OF GLOBAL AIRLIGHT.
