@@ -1,7 +1,8 @@
 # Fog-Removal-using-dark-channel-Prior
 This Repository contains code for fog removal from a single image using dark channel prior.
 
-Authors @ Vaibhav Khandelwal and Divyanshi Mangal
+Authors @ Vaibhav Khandelwal and Divyanshi Mangal.
+
 Follow the steps below to run the code:
 1. Save all files in the same folder. 
 2. Open fog_removal_main.m in matlab and edit the path of your input image in imread('your_input_image_path').
