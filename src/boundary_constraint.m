@@ -1,5 +1,5 @@
 function [p1, p2] = boundary_constraint(fogged, Airlight, C0, C1, frame)
-% patch-wise transmission from boundary constraint
+% patch wise transmission from boundary constraint
 
 if length(Airlight) == 1
     Airlight = Airlight * ones(3, 1);
